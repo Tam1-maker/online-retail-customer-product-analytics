@@ -1,0 +1,18 @@
+# Raw and large datasets
+data/
+python/online_retail_II_combined.csv
+python/sales_clean.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
